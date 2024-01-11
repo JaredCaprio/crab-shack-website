@@ -94,7 +94,7 @@ video {
   border: 0;
   font-size: 100%;
   font: inherit;
-  vertical-align: baseline;
+  vertical-align: bottom;
 }
 
 article,
@@ -2542,6 +2542,284 @@ ul.actions.special {
 .d-flex-col {
   display: flex;
   flex-direction: column;
+}
+
+.center {
+  text-align: center;
+}
+
+.menu-container {
+  width: 100vw;
+}
+
+/* IMPORTED FROM ORIGINAL CRAB SHACK WEBSITE */
+
+.style12 {
+  border-width: 0px;
+}
+
+.auto-style1 {
+  text-align: center;
+}
+.style64 {
+  font-size: medium;
+}
+.auto-style2 {
+  text-align: center;
+  color: #000000;
+  font-size: large;
+}
+.style15 {
+  text-align: right;
+}
+.style63 {
+  font-size: medium;
+  color: #ff0000;
+}
+.auto-style3 {
+  text-align: left;
+}
+.auto-style40 {
+  text-align: center;
+  font-size: large;
+
+  background-color: #c7c0fe;
+}
+.style1 {
+  text-align: center;
+}
+.auto-style18 {
+  text-align: justify;
+}
+.auto-style44 {
+  font-size: large;
+}
+.auto-style45 {
+  color: #ff0000;
+}
+.auto-style27 {
+  background-color: #d7ffff;
+}
+.auto-style46 {
+  color: #ff0000;
+  font-size: large;
+}
+.auto-style28 {
+  font-weight: bold;
+  background-color: #d7ffff;
+}
+.auto-style48 {
+  text-align: center;
+  color: #ff0000;
+  font-size: large;
+}
+.auto-style49 {
+  color: #000000;
+}
+.auto-style42 {
+  font-size: large;
+  color: #ff0000;
+}
+.auto-style51 {
+  font-size: small;
+}
+.style25 {
+  text-align: left;
+}
+.style31 {
+  text-decoration: underline;
+  font-size: small;
+}
+.style10 {
+  font-size: small;
+}
+.auto-style53 {
+  text-decoration: underline;
+  font-size: large;
+  color: #ff0000;
+}
+.auto-style54 {
+  color: #ff0000;
+  text-decoration: underline;
+  background-color: #fff4f7;
+  font-size: large;
+}
+.auto-style55 {
+  text-decoration: underline;
+  font-size: large;
+}
+.style56 {
+  padding: 0in 5.4pt;
+}
+.style29 {
+  border-width: 0;
+}
+.style66 {
+  color: #ff0000;
+}
+.auto-style58 {
+  text-align: center;
+  background-color: #c7c0fe;
+}
+.auto-style41 {
+  font-size: large;
+  font-weight: bold;
+}
+.auto-style59 {
+  background-color: #ffffff;
+}
+.auto-style60 {
+  font-size: large;
+  color: #ff0000;
+  background-color: #ffffff;
+}
+.auto-style61 {
+  text-align: right;
+  font-size: medium;
+}
+.auto-style62 {
+  text-decoration: none;
+}
+.auto-style69 {
+  background-color: #ffffcc;
+}
+.auto-style71 {
+  background-color: #ccffff;
+}
+.auto-style73 {
+  color: #000000;
+  background-color: #fff4f7;
+  font-size: medium;
+}
+.auto-style75 {
+  color: #ff0000;
+  text-decoration: underline;
+  background-color: #ffffcc;
+  font-size: large;
+}
+.auto-style76 {
+  text-align: right;
+  background-color: #ccffff;
+}
+.auto-style78 {
+  font-size: medium;
+  background-color: #ccffff;
+}
+.auto-style79 {
+  font-size: medium;
+  background-color: #ffffcc;
+}
+.auto-style82 {
+  font-weight: bold;
+}
+.auto-style84 {
+  font-weight: bold;
+  padding: 0;
+}
+.auto-style83 {
+  text-align: center;
+  color: #ff0000;
+}
+.auto-style88 {
+  font-size: large;
+  background-color: #ffffff;
+  text-decoration: underline;
+}
+.auto-style89 {
+  color: #ff0000;
+  background-color: #ffffff;
+}
+.auto-style91 {
+  background-color: #fff4f7;
+}
+.auto-style92 {
+  background-color: #d7ffff;
+  color: #ff0000;
+  font-size: large;
+}
+.auto-style47 {
+  font-size: medium;
+  text-align: left;
+}
+.auto-style95 {
+  background-color: #e8ffe8;
+}
+.auto-style98 {
+  text-align: left;
+  background-color: #f0f0ff;
+}
+.auto-style99 {
+  background-color: #f0f0ff;
+}
+.auto-style101 {
+  text-align: right;
+  background-color: #f0f0ff;
+}
+.auto-style104 {
+  background-color: #d7ffff;
+  text-align: right;
+}
+.auto-style105 {
+  background-color: #ffffcc;
+  text-align: left;
+}
+.auto-style106 {
+  background-color: #ffffff;
+  text-decoration: underline;
+}
+.auto-style107 {
+  color: #ff0000;
+  text-decoration: underline;
+}
+.auto-style108 {
+  text-align: center;
+  color: #ff0000;
+  background-color: #c7c0fe;
+}
+.auto-style110 {
+  text-align: center;
+  background-color: #ffffcc;
+}
+.auto-style111 {
+  background-color: #e8ffe8;
+  text-align: left;
+}
+.auto-style112 {
+  font-weight: bold;
+  text-align: center;
+}
+.auto-style113 {
+  font-weight: bold;
+  background-color: #d7ffff;
+  text-align: center;
+}
+.auto-style114 {
+  background-color: #d7ffff;
+  text-align: center;
+}
+.auto-style115 {
+  text-align: left;
+  font-size: small;
+}
+.auto-style116 {
+  background-color: #ffffcc;
+  font-size: small;
+  text-align: left;
+}
+.auto-style117 {
+  font-size: large;
+  background-color: #ffffff;
+}
+.auto-style118 {
+  text-decoration: underline;
+}
+.auto-style119 {
+  color: #000000;
+  font-size: medium;
+}
+.auto-style120 {
+  background-color: #fff4f7;
+  font-size: medium;
 }
 
 @media screen and (max-width: 980px) {
